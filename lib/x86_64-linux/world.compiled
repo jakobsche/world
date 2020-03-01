@@ -2,5 +2,4 @@
 <CONFIG>
   <Compiler Value="/home/andreas/fpc_tools/fpc/bin/fpc" Date="1507031793"/>
   <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fu/home/andreas/fpc_tools/lazarus/packager/units/x86_64-linux -Fu/home/andreas/fpc_tools/lazarus/components/lazutils/lib/x86_64-linux -Fu/home/andreas/fpc_tools/lazarus/lcl/units/x86_64-linux -Fu/home/andreas/fpc_tools/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/home/andreas/private/Lazarus/packages/streams/lib/x86_64-linux -Fu/home/andreas/private/Lazarus/packages/lclpatch/lib/x86_64-linux -Fu/home/andreas/private/Lazarus/packages/dataobjpas/lib/x86_64-linux -Fu/home/andreas/private/Lazarus/packages/world/ -FU/home/andreas/private/Lazarus/packages/world/lib/x86_64-linux/ -dLCL -dLCLgtk2 world.pas"/>
-  <Complete Value="False"/>
 </CONFIG>
